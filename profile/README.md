@@ -6,8 +6,8 @@ DapurKode.com adalah sebuah agensi freelancer dari Bali, yang bergerak di bidang
 2. Pande Nengah Purnawan ([github](https://pandenengah.github.io/))
 3. I Gede Lanang Ari Praditha 
 
-#### Protofolio
-Kunjungi website kami di [http://www.dapurkode.com](http://www.dapurkode.com)
+#### Portofolio
+> Kunjungi website kami di [http://www.dapurkode.com](http://www.dapurkode.com)
 
 <!--
 
