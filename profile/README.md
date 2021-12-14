@@ -2,7 +2,7 @@
 DapurKode.com adalah sebuah agensi freelancer dari Bali, yang bergerak di bidang pengembangan perangkat lunak. Kami melayani pembuatan toko online, sistem informasi, profil perusahaan dengan platform website dan mobile. Terdiri dari para pengembang aplikasi profesional, kami siap membantu mewujudkan ide Anda. Karena ide Anda, sangatlah berharga.
 
 ## 👨‍🍳 Anggota Tim Kami
-1. I Gusti Bagus Ngurah Satya Wibawa - Founder and Leader ([github](https://gungsatya.github.io))
+1. I Gusti Bagus Ngurah Satya Wibawa - Founder and Leader ([github](https://github.com/gungsatya))
 2. Pande Nengah Purnawan ([github](https://pandenengah.github.io/))
 3. I Gede Lanang Ari Praditha 
 
